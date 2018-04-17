@@ -52,6 +52,8 @@
 			<Option compile="1" />
 			<Option link="1" />
 		</Unit>
+		<Unit filename="game.cpp" />
+		<Unit filename="game.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<debugger />
